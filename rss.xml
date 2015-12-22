@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Elson]]></title>
         <description><![CDATA[Elson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 17:13:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 17:18:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Teste de post no Grid.</p>]]></description>
-            <link>undefined15660d2b-5135-4282-94c5-5123748509e8/index.html</link>
+            <title><![CDATA[Elson Marques]]></title>
+            <description><![CDATA[<article><h1>Elson Marques</h1><p>Teste de post no Grid.</p></article>]]></description>
+            <link>https://thegrid.ai/elson/15660d2b-5135-4282-94c5-5123748509e8/index.html</link>
             <guid isPermaLink="false">15660d2b-5135-4282-94c5-5123748509e8</guid>
-            <pubDate>Tue, 22 Dec 2015 17:13:50 GMT</pubDate>
+            <pubDate>Tue, 22 Dec 2015 17:17:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
